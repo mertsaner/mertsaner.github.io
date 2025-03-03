@@ -1,0 +1,31 @@
+body {
+  padding-bottom: 40px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15.5px;
+}
+.img-profile {
+  max-width: 200px;
+  margin-top: 10px;
+}
+.img-logo {
+  max-width: 40px;
+}
+.img-padding {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.vertical-align {
+  display: flex;
+  align-items: center;
+}
+body > .container {
+    box-shadow: 0 10px 30px #777;
+    background-color: #FFF;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+footer {
+  padding-top: 50px;
+}
